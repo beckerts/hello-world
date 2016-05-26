@@ -9,3 +9,4 @@ I did not read about forks. This sounds like what I want, though.
 Lets try making changes using the github desktop app. Need to make the edits outside of the app.
 
 Adding another line just to see the history graph move.
+After the commit there are three circles. Two solid and one dashed.
