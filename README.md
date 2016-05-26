@@ -13,3 +13,5 @@ After the commit there are three circles. Two solid and one dashed.
 
 This line is after the above commits and a pull request. I did not merge the pull request to the master branch yet.
 Appears you have to do that from github. Not in the desktop app.
+
+Tried syncing, first on steve account which updated github. then on alexander account. doesn't show the change net.
