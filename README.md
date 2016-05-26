@@ -17,3 +17,5 @@ Appears you have to do that from github. Not in the desktop app.
 Tried syncing, first on steve account which updated github. then on alexander account. doesn't show the change yet.
 
 Wow. If you make commits after a pull request those commits get pulled as well. Interesting.
+
+Alexander - making a change.
