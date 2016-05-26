@@ -10,3 +10,6 @@ Lets try making changes using the github desktop app. Need to make the edits out
 
 Adding another line just to see the history graph move.
 After the commit there are three circles. Two solid and one dashed.
+
+This line is after the above commits and a pull request. I did not merge the pull request to the master branch yet.
+Appears you have to do that from github. Not in the desktop app.
